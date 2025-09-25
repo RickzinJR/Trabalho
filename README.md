@@ -40,6 +40,3 @@ DELETE:
 
 Copiar e colar: -X DELETE http://localhost:3000/tarefas/1
 
-## Importar no Postman
-
-Importe o arquivo `postman_collection.json` incluído na pasta.
